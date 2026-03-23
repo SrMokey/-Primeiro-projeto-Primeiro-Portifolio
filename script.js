@@ -13,7 +13,7 @@ function toggleMode() {
       "Foto do aprendiz em programação Caio Souza, com roupa clara e sem oculos",
     );
   } else {
-    img.setAttribute("src", "./assets/avatar.png");
+    img.setAttribute("src", "./assets/avatar-light.png");
     img.setAttribute(
       "alt",
       "Foto do aprendiz em programação Caio Souza, cabelo ondulado, e com oculos",

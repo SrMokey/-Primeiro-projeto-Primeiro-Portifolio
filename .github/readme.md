@@ -15,6 +15,8 @@ Projeto do Discover na Rocket Seat conduzido com a ajuda de Mayk Brito
   <img alt="License" src="https://img.shields.io/static/v1?label=license&message=MIT&color=49AA26&labelColor=000000">
 </p>
 
+## 📑 Preview do Projeto
+
 <br>
 
 <p align="center">
