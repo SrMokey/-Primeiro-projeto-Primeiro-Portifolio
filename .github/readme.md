@@ -38,7 +38,7 @@ O Projeto Devlinks, funciona como um portal de links onde é possivel acesso do 
 
 ## 🔖 Layout
 
-Você pode visualizar o layout do projeto através [DESSE LINK](https://www.figma.com/pt-br/comunidade/file/1187422022288947321/devlinks-projeto-discover). É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
+Você pode visualizar o layout do projeto através [DESSE LINK](https://www.figma.com/pt-br/comunidade/file/1187422022288947321/devlinks-projeto-discover). É necessário ter conta no [Figma](https://figma.com) para acessá-lo. Acesse o Projeto completo [NESTE LINK](https://srmokey.github.io/-Primeiro-projeto-Primeiro-Portifolio/)
 
 ## 📜 Licença
 
